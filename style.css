@@ -457,3 +457,69 @@ strong {
 .view-btn:hover {
   background: #444;
 }
+
+
+
+
+
+/* mobileview */
+/* ===== Mobile Responsive Fixes ===== */
+@media (max-width: 768px) {
+  /* Navbar */
+  nav {
+    width: 100%;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 10px;
+  }
+  nav a {
+    padding: 6px 10px;
+    font-size: 14px;
+  }
+
+  /* Hero */
+  h1 { font-size: 22px; }
+  h1 span { font-size: 24px; }
+  p { font-size: 16px; }
+
+  /* Education */
+  .edu-box {
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+  }
+  .edu-icon {
+    margin-bottom: 10px;
+    margin-right: 0;
+  }
+  .edu-content h2 { text-align: center; }
+
+  /* Projects */
+  .project-card {
+    flex-direction: column;
+    padding: 20px;
+  }
+  .project-info {
+    text-align: center;
+    padding-right: 0;
+    margin-bottom: 20px;
+  }
+  .project-image {
+    max-width: 100%;
+  }
+
+  /* Skills */
+  .skills-container {
+    gap: 10px;
+  }
+  .skill {
+    font-size: 0.9rem;
+    padding: 10px 15px;
+  }
+
+  /* Contact form */
+  .contact-section {
+    margin: 20px;
+    padding: 20px;
+  }
+}
