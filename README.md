@@ -1,5 +1,5 @@
 # PORTFOLIO
 
 🔗 **Live Demo:**  
- https://charu219.github.io/portfolio/
+ illustrious-vacherin-67344c.netlify.app
 
