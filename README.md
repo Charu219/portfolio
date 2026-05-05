@@ -2,5 +2,5 @@
 
 
 🔗 **Live Demo:** 
-     https://illustrious-vacherin-67344c.netlify.app
+     https://spontaneous-kleicha-23aeff.netlify.app/project
 
