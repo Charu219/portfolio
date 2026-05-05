@@ -2,5 +2,5 @@
 
 
 🔗 **Live Demo:** 
-     https://spontaneous-kleicha-23aeff.netlify.app/project
+     https://spontaneous-kleicha-23aeff.netlify.app/
 
